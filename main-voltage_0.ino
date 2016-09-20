@@ -57,6 +57,8 @@ vsm = voltage - 100*vs;
 vm = vsm /10;
 vu = vsm %10;
  
+ tm1637.clearDisplay();
+ 
     tm1637.display(0,vs); 
     tm1637.display(1,vm);
     tm1637.display(2,vu); 
