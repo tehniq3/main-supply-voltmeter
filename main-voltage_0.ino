@@ -1,7 +1,8 @@
 // base sketch from https://brainy-bits.com/tutorials/4-bits-7-segment-led-display-with-arduino/
 // changed TM1637 library by niq_ro for degree, r & h letter
-// thermometer & hygromether with DHT sensor on TM1637 LED display by niq_ro from http://www.tehnic.go.ro
+// main voltmeterr on TM1637 LED display by niq_ro from http://www.tehnic.go.ro
 // & http://arduinotehniq.com/
+// ver.0 - base sketch, 22.09.2016, Craiova - Romania
 
 #include "TM1637.h"
 //{0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19};
