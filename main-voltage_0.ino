@@ -58,7 +58,7 @@ vm = vsm /10;
 vu = vsm %10;
  
     tm1637.display(0,vs); 
-    tm1637.display(1,vs);
+    tm1637.display(1,vm);
     tm1637.display(2,vu); 
     tm1637.display(3,17); // put space 
     
