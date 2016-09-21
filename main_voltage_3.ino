@@ -7,7 +7,7 @@
 // ver.2, put MENU, increase, decrease buttons
 // ver.3, store value in EEPROM memory
 
-#include "TM1637.h"
+#include "TM1637.h" // use changed library from https://github.com/tehniq3/TM1637-display/tree/master/TM1637
 //{0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19};
 //0~9,A,b,C,d,E,F,"-"," ",degree,r,h,n,t, 
 //A -> 10, b -> 11, C -> 12, d -> 13, E -> 14, F -> 15,
